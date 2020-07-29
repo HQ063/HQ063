@@ -3,7 +3,7 @@ HQ063
 
 ### Web & Desktop Developer
 
-<img align="right" src="gonza.png">
+<img align="right" src="https://raw.githubusercontent.com/HQ063/HQ063/master/gonza.png">
 
 I'm a developer from Argentina 🇦🇷 and I've been messsing around with the web 🌐 since I was 12yo 👦. I developed my first website on MS FrontPage
 and I hosted it on tripod (wasn't even lycos yet). I'd like to thank to an Uruguayan 🇺🇾 guy who used the nickname of Maki Kai ⛹️‍♂️, I don't remember
