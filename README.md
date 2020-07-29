@@ -31,6 +31,7 @@ you can visit my linkedin 👔 😀.
 | Ruby on Rails                   |  ⭐⭐⭐⭐  |    😍    |
 | C# (.Net Framework 4.5)         |  ⭐⭐⭐⭐  |    🤗    |
 | SQL (PostgreSQL, MySql, MS Sql) |  ⭐⭐⭐⭐  |    😀    | 
+| PHP |  ⭐⭐⭐⭐  |    🤢    | 
 | HTML |  ⭐⭐⭐⭐⭐  |    🙂    | 
 | CSS |  ⭐⭐⭐  |    😕    | 
 | JS |  ⭐⭐⭐  |    😰    | 
